@@ -1,6 +1,6 @@
 {
   "name": "@willowswt/b2b-lead-churn-substack-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Streamable-HTTP & stdio MCP server for B2B lead enrichment, Substack creator discovery, Shopify competitor 1-3 star churn reviews, Linktree/Beacons emails, and HN/ProductHunt launches.",
   "type": "module",
   "main": "src/index.js",
